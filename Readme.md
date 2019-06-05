@@ -40,6 +40,7 @@
     - Ungrouped
         - [后面第一个大于](http://www.51nod.com/Challenge/ProblemSubmitDetail.html#!#judgeId=743857)
         - [区间的价值](http://www.51nod.com/Challenge/Problem.html#!#problemId=1564)
+        - [区间的价值 V2](http://www.51nod.com/Challenge/Problem.html#!#problemId=1674)
 - 字符串处理
     - [Average is not Fast Enough!](http://acm.hdu.edu.cn/showproblem.php?pid=1036)
 - 基本算法

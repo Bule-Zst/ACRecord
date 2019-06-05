@@ -1,0 +1,70 @@
+- 贪心
+    - [Beaver's Calculator](<https://blog.csdn.net/howardemily/article/details/54912973>)
+    - [小b删列](http://www.51nod.com/Challenge/Problem.html#!#problemId=2523)
+- 大模拟
+    - [Eurodiffusion](<https://vjudge.net/problem/UVALive-2724>)
+- dp
+    - [Combine String](<http://acm.hdu.edu.cn/showproblem.php?pid=5707>)
+    - [循环数组最大子段和](http://www.51nod.com/Challenge/Problem.html#!#problemId=1050)
+    - [回文字符串](http://www.51nod.com/Challenge/ProblemSubmitDetail.html#!#judgeId=749313)
+    - [Ayoub and Lost Array](https://vjudge.net/problem/CodeForces-1105C)
+    - 数位dp
+        - [数字1的数量](http://www.51nod.com/Challenge/Problem.html#!#problemId=1009)
+- 搜索
+    - [GirlCat](<https://vjudge.net/problem/HDU-5706>)
+    - [Robot Motion](http://acm.hdu.edu.cn/showproblem.php?pid=1035)
+    - [求先序排列](https://www.luogu.org/fe/problem/P1030)
+- 思维题
+    - [Delta-wave](<http://acm.hdu.edu.cn/showproblem.php?pid=1030>)
+    - [Congruent Numbers](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=6201)
+    - [Halfway](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=6203)
+    - [HRY and Abbas](https://ac.nowcoder.com/acm/contest/874/C)
+    - [Number](https://ac.nowcoder.com/acm/contest/893/B)
+    - [Stone](https://ac.nowcoder.com/acm/contest/893/D)
+    - [骨牌覆盖](http://www.51nod.com/Challenge/Problem.html#!#problemId=1031)
+- 图论
+    - 二分图匹配
+        - [Emergency Evacuation](<https://vjudge.net/problem/CSU-2282>)
+        - [过山车](<http://acm.hdu.edu.cn/showproblem.php?pid=2063>)
+        - [飞行员配对方案问题](https://www.luogu.org/problemnew/show/P2756)
+        - [假期的宿舍](https://www.luogu.org/problemnew/show/P2055)
+- 计算几何
+    - 三角形面积计算
+        - [改革春风吹满地](<http://acm.hdu.edu.cn/showproblem.php?pid=2036>)
+- 枚举
+    - [Dreamoon and NightMarket](<https://vjudge.net/problem/Gym-101234G>)
+    - [分宿舍](http://acm.hdu.edu.cn/showproblem.php?pid=6492)
+- 数据结构
+    - 栈
+        - [Train Problem I](<http://acm.hdu.edu.cn/showproblem.php?pid=1022>)
+    - Ungrouped
+        - [后面第一个大于](http://www.51nod.com/Challenge/ProblemSubmitDetail.html#!#judgeId=743857)
+        - [区间的价值](http://www.51nod.com/Challenge/Problem.html#!#problemId=1564)
+- 字符串处理
+    - [Average is not Fast Enough!](http://acm.hdu.edu.cn/showproblem.php?pid=1036)
+- 基本算法
+    - [Carmichael Numbers](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=947)
+- 二分
+    - [重排列](http://www.51nod.com/Challenge/Problem.html#!#problemId=2513)
+- java大数
+    - [初中的算术](http://www.51nod.com/Challenge/Problem.html#!#problemId=1873)
+- 水题
+    - [Text Reverse](<http://acm.hdu.edu.cn/showproblem.php?pid=1062>)
+    - [A + B Problem II](<http://acm.hdu.edu.cn/showproblem.php?pid=1002>)
+    - [Let the Balloon Rise](<http://acm.hdu.edu.cn/showproblem.php?pid=1004>)
+    - [Digital Roots](<http://acm.hdu.edu.cn/showproblem.php?pid=1013>)
+    - [A Mathematical Curiosity](<http://acm.hdu.edu.cn/showproblem.php?pid=1017>)
+    - [Encoding](<http://acm.hdu.edu.cn/showproblem.php?pid=1020>)
+    - [Ignatius and the Princess IV](<http://acm.hdu.edu.cn/showproblem.php?pid=1029>)
+    - [Candy Sharing Game](http://acm.hdu.edu.cn/showproblem.php?pid=1034)
+    - [Enigma](http://codeforces.com/gym/101908/problem/E)
+    - [Keep on Truckin'](http://acm.hdu.edu.cn/showproblem.php?pid=1037)
+    - [Easier Done Than Said?](http://acm.hdu.edu.cn/showproblem.php?pid=1039)
+    - [小b和矩阵](http://www.51nod.com/Challenge/Problem.html#!#problemId=2486)
+    - [个人所得税](http://www.51nod.com/Challenge/Problem.html#!#problemId=2381)
+    - [还是01串](http://www.51nod.com/Challenge/Problem.html#!#problemId=1396)
+    - [和为S](http://www.51nod.com/Challenge/Problem.html#!#problemId=2518)
+    - [Who's better?](https://ac.nowcoder.com/acm/contest/893/A)
+    - [序列中最大的数](http://www.51nod.com/Challenge/Problem.html#!#problemId=1062)
+    - [小花梨点外卖](https://acm.ecnu.edu.cn/contest/173/problem/I/)
+    - [Vasya and Isolated Vertices](https://vjudge.net/problem/CodeForces-1065B)
